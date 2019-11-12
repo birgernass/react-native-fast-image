@@ -41,3 +41,6 @@ react-native-fast-image-*.tgz
 
 # coverage reports
 coverage
+
+.project
+
